@@ -1,3 +1,7 @@
+'''
+When typing in a message to encrypted or decrypted use lower case and no spaces!
+'''
+
 MAPPING = {
     'A': 'N',
     'B': 'O',
